@@ -1,4 +1,4 @@
-package com.example.gridview;
+package com.example.gridview.model;
 
 public class Country {
     private String countryName;
